@@ -10,7 +10,7 @@ I'm currently looking for my next role, so please get in touch if you think I'd 
 
 👉 [My Resume](https://blakefromkin.github.io/resume)
 
-👉 [LinkedIn](https://www.linkedin.com/in/blakefromkin/))
+👉 [LinkedIn](https://www.linkedin.com/in/blakefromkin/)
 
 <!--
 **blakefromkin/blakefromkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
