@@ -8,7 +8,7 @@ I'm currently looking for my next role, so please get in touch if you think I'd 
 
 👉 [Reverb Case Study](https://reverb-app.github.io/#case-study)
 
-👉 [My Resume](https://blakefromkin.github.io/resume)
+👉 [My Resume](https://blakefromkin.github.io/assets/cv.pdf)
 
 👉 [My LinkedIn](https://www.linkedin.com/in/blakefromkin/)
 
