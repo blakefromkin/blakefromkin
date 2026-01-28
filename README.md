@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Blake.
 
-I'm a full-stack software engineer at Calendly with experience in TypeScript, JavaScript, Node.js, Express, React, Go, PostgreSQL, MongoDB, Docker, and AWS. I leverage my prior career as a Creative Director/​Copywriter to bring strong problem-solving, cross-team collaboration, and technical communication skills to complex engineering challenges. 
+I'm a Full Stack Engineer at Calendly with experience in TypeScript, JavaScript, Node.js, Express, React, Go, PostgreSQL, MongoDB, Docker, and AWS. I leverage my prior career as a Creative Director/​Copywriter to bring strong problem-solving, cross-team collaboration, and technical communication skills to complex engineering challenges. 
 
 Most recently, I built production-scale workflows and backend services for Calendly’s AI Notetaker.
 
